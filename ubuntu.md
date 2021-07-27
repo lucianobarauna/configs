@@ -1,3 +1,5 @@
+## Programs
+
 ```
 sudo apt install build-essential default-jdk libssl-dev
 ```
@@ -14,6 +16,7 @@ sudo apt install zsh git
 sudo snap install vscode opera discord telegram spotfiy
 ```
 
+## Terminal
 https://ohmyz.sh/
 
 https://spaceship-prompt.sh/
