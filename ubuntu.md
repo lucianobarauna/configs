@@ -15,4 +15,5 @@ sudo snap install vscode opera discord telegram spotfiy
 ```
 
 https://ohmyz.sh/
+
 https://spaceship-prompt.sh/
