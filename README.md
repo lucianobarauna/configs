@@ -1,2 +1,4 @@
-# configs
-Minhas configurações para PC
+## My configs
+
+- [Ubuntu](./ubuntu.md)
+- [Navigator](./navigator.md)
